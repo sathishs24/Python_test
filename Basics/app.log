@@ -1,0 +1,11 @@
+2022-11-19 20:27:54,593 - DEBUG - This is debug message
+2022-11-19 20:27:54,593 - INFO - This is info message
+2022-11-19 20:27:54,593 - WARNING - This is warning message
+2022-11-19 20:27:54,593 - ERROR - This is error message
+2022-11-19 20:27:54,593 - CRITICAL - This is critical message
+2022-11-19 20:37:15,775 - __name__ - WARNING - This is warning message
+2022-11-19 20:37:15,775 - __name__ - ERROR - This is error message
+2022-11-19 20:37:15,775 - __name__ - CRITICAL - This is critical message
+2022-11-19 20:38:39,594 - __name__ - WARNING - This is warning message
+2022-11-19 20:38:39,594 - __name__ - ERROR - This is error message
+2022-11-19 20:38:39,594 - __name__ - CRITICAL - This is critical message
